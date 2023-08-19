@@ -1,0 +1,37 @@
+div{
+    height: 700px;
+    width:390px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylrAkqwcwp3TaCja5iOa4glYVwCkjGoMMc_MvpC4vadFFBWFAQ0kBmpqoSzh1uECv6DQ&usqp=CAU");
+    background-size: cover;
+    font-size: 18px;
+}
+.head{
+    color:white;
+    text-align: center;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+button{
+    background-color: orange;
+    width: 80px;
+    height: 35px;
+    justify-content: center;
+    color: white;
+    margin-left: 37%;
+    border-color: black;
+}
+a{
+    color: white;
+    margin-left:27%;
+
+}
+
+
+
+
+
+
