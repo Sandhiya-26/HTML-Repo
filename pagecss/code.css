@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(88, 44, 184);
+}
+.box{
+    padding:40px;
+    width:23%;
+    height:140px;
+    background-color:rgb(131, 131, 203);
+    position:relative;
+    top:200px ;
+    bottom:100px;
+    margin:auto;
+    
+}
+.box1{
+    background-color: white;
+    height:270px;
+    width:14%;
+    position: absolute;
+    top:180px;
+    bottom:160px;
+    left:570px;
+    right:300px;
+}
+.para{
+    text-align: right;
+}
+.para1{
+    text-align: right;
+    margin-left: 70%;
+}
+.button{
+    background-color: rgb(219, 33, 138);
+    height: 30px;
+    width: 30%;
+    color: white;
+    
+}
